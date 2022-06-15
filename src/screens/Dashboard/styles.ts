@@ -75,7 +75,7 @@ export const HighlightCards = styled.ScrollView.attrs({
 export const Transactions = styled.View`
   flex: 1;
   padding: 0 ${({ theme }) => theme.spaces.padding_border}px;
-  margin-top: ${RFPercentage(12)}px;
+  margin-top: ${RFPercentage(7)}px;
 `;
 
 export const Title = styled.Text`
